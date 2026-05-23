@@ -114,14 +114,4 @@ The dataset contains **396,000+ loan application records** with borrower informa
 - Improve recall using advanced ML algorithms like XGBoost or Random Forest.
 - Deploy the model for real-time credit risk assessment.
 
----
 
-# 📁 Project Structure
-
-```bash
-LoanTap-Credit-Risk-Analysis/
-│
-├── LoanTap Logistic Regression.ipynb
-├── LoanTapData.csv
-├── README.md
-└── images/
